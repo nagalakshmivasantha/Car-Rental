@@ -1,4 +1,4 @@
-ECHO is on.
+
 name: CI/CD Pipeline
 
 on:
